@@ -2,4 +2,6 @@
 MultiChart &amp; Python 
 
 ### Data:
-### Strategy & Performance:
+### Exploratory Data Analysis: IF_Data_Analysis.ipynb
+### Strategy: IF_Strategy.ipynb 
+### Performance:IF.pdf
